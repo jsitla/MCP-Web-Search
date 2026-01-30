@@ -1,0 +1,8 @@
+fastmcp
+ddgs
+httpx
+lxml
+playwright
+markdownify
+youtube-transcript-api
+pymupdf

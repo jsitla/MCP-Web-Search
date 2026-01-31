@@ -1,0 +1,10 @@
+﻿{
+  "servers": {
+    "internet-search": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["search_server.py"],
+      "cwd": "."
+    }
+  }
+}
